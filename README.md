@@ -1,1 +1,1 @@
-# bank-churn
+# Bank Churn
